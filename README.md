@@ -4,8 +4,7 @@ An application that allows users to order food items for a specific restaurant o
 
 ## Final Product
 
-!["screenshot of homepage"](https://raw.githubusercontent.com/alextheprogrammer21/Devware/master/src/images/1.PNG)
-!["screenshot of searched page"](https://raw.githubusercontent.com/alextheprogrammer21/Devware/master/src/images/2.PNG)
+!["screenshot of homepage"](https://raw.githubusercontent.com/alextheprogrammer21/food-pickup/master/Screen%20Shot%202020-06-29%20at%204.37.55%20PM.png)
 
 ## Dependencies
 
