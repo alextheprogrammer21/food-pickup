@@ -7,8 +7,8 @@ const orderConfirmed = function (order_id) {
   twilioClient.messages
     .create({
       body: `http://localhost:8080/restaurant_confirm/${order_id}`,
-      from: '+16042621059',
-      to: '+17809918297'
+      from: '[twilio number]',
+      to: '[your number here]'
     })
     .then(message => console.log(message.sid));
 }
@@ -27,8 +27,8 @@ const orderCompleted = function () {
   twilioClient.messages
   .create({
     body: `Your order is completed! 😊`,
-    from: '+16042621059',
-    to: '+17809918297'
+    from: '[twilio number]',
+    to: '[your number here]'
   })
   .then(message => console.log(message.sid));
 }
