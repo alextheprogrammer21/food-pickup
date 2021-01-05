@@ -1,6 +1,6 @@
 ### Food Pick-up 
 A food ordering pick-up app for a single restaurant. 
-Built as a group mditerm project using AJAX, Node and Express. 
+Built as a group midterm project using AJAX, Node and Express. 
 
 ## Final Project 
 
